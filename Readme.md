@@ -3,7 +3,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/Fdfffvdryu74654/Pro-Auto-Filter-Bot-V2">
     <img src="https://img.shields.io/github/stars/MoTechYT/Pro-Auto-Filter-Bot-V2?style=social">
 
   </a>
