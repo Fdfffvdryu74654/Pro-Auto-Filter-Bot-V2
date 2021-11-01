@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>haink{}!!</b>
 
 <b>I am a Pro AutoFilterBot V2....😜</b>
 
