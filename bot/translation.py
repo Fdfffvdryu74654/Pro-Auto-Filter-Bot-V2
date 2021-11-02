@@ -51,13 +51,13 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Developer</b> : <b><a href="https://t.me/Moviechanda_Ower">👤Joker</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/Moviechanda_Ower">👤Joker</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ Support channel 💻</b> : <b><a href="https://t.me/cinemachandabot">💥Click Me</a></b>
 """
