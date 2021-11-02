@@ -4,17 +4,17 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>haink{}!!</b>
+    START_TEXT = """<b>ℍ𝕒𝕚🙋{}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>𝕀 𝕒𝕞 𝕒 ℙ𝕣𝕠 𝔸𝕦𝕥𝕠𝔽𝕚𝕝𝕥𝕖𝕣𝔹𝕠𝕥 𝕍𝟚....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>𝕄𝕒𝕜𝕖 𝕞𝕖 𝕒𝕟 𝕒𝕕𝕞𝕚𝕟 𝕗𝕠𝕣 𝕪𝕠𝕦𝕣 𝕘𝕣𝕠𝕦𝕡 𝕒𝕟𝕕 𝕔𝕙𝕒𝕟𝕟𝕖𝕝 𝕥𝕙𝕖𝕟 𝕔𝕠𝕟𝕟𝕖𝕔𝕥 𝕞𝕖....🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>𝕃𝕠𝕠𝕜 𝕠𝕦𝕣 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 𝕗𝕠𝕣 𝕓𝕠𝕥 𝕦𝕡𝕕𝕒𝕥𝕖𝕕.𝕜𝕖𝕖𝕡 𝕤𝕦𝕡𝕡𝕠𝕣𝕥𝕚𝕟𝕘...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>ℙ𝕝𝕖𝕒𝕤𝕖 𝕊𝕙𝕒𝕣𝕖 𝕥𝕙𝕚𝕤 𝕓𝕠𝕥 𝕒𝕟𝕕 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 😘...</b>
 
-<b>Press /help to know about available commands🤪</b>"""    
+<b>Press /help to know about available commands</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
