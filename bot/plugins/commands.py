@@ -159,7 +159,12 @@ async def help(bot, update):
         reply_to_message_id=update.message_id
     )
 
-
+    else:
+        await bot.send_photo(
+        chat_id=message.from_user.id,
+        photo="https://telegra.ph/file/75f17e0c5ec8efa06263b.jpg",
+        caption=START_MSG.format(message.from_user.first_name),
+        parse_mode="html",
 @Client.on_message(filters.command(["about"]) & filters.private, group=1)
 async def about(bot, update):
     
